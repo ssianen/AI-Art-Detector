@@ -1,6 +1,7 @@
 AI Art Detector for SENG 474 Project
 
 Please download our dataset from this Google Drive Link: https://drive.google.com/drive/folders/1F1LxmTDe8oy9KEKCgCGSUMAZuHX4ebRJ?usp=drive_link 
+
 It was created from a combination of the following Kaggle datasets:
 - Ravidu Silva, “AI-ArtBench,” Kaggle.com, 2025. https://www.kaggle.com/datasets/ravidussilva/real-ai-art 
 - Alok Pandey, “A Dataset of 11,300 Labeled AI Generated Images,” Kaggle.com, 2025. https://www.kaggle.com/datasets/aloktantrik/a-dataset-of-34500-labeled-images
