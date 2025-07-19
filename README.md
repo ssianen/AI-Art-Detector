@@ -8,6 +8,7 @@ It was created from a combination of the following Kaggle datasets:
 - Ravidu Silva, “AI-ArtBench,” Kaggle.com, 2025. https://www.kaggle.com/datasets/ravidussilva/real-ai-art 
 - Alok Pandey, “A Dataset of 11,300 Labeled AI Generated Images,” Kaggle.com, 2025. https://www.kaggle.com/datasets/aloktantrik/a-dataset-of-34500-labeled-images
 - Tristan Zhang, “ai-generated-images-vs-real-images,” Kaggle.com, 2025. https://www.kaggle.com/datasets/tristanzhang32/ai-generated-images-vs-real-images.
+- Da Vinci's Mona Lisa and Vermeer's The Girl with the Pearl Earring https://artistro.com/blogs/news/30-most-famous-artworks-in-history-the-greatest-art-of-all-time 
 
 To install the required packages, run: pip install torch torchvision torchaudio numpy scikit-learn seaborn matplotlib 
 
