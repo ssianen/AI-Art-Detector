@@ -157,7 +157,7 @@ selected_files_AI_3 = np.random.choice(files_AI_3, size=num_to_select, replace=F
 num_to_select = 7000
 selected_files_Human_1 = np.random.choice(files_Human_1, size=num_to_select, replace=False)
 
-#Select 5000 random real images from ai-generated-images-vs-real-images
+#Select 3000 random real images from ai-generated-images-vs-real-images
 num_to_select = 3000
 selected_files_Human_2 = np.random.choice(files_Human_2, size=num_to_select, replace=False)
 
