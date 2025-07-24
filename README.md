@@ -1,4 +1,4 @@
-AI Art Detector for SENG 474 Project
+# AI Art Detector for SENG 474 Data Mining Project
 
 By sofiiak13, kedfree, ssianen, jas-wei
 
