@@ -15,4 +15,4 @@ To create a python virtual environment, cd into the project directory and then r
 
 To activate the python virtual environment, run: source CNNEnv/bin/activate
 
-To install the required packages, run: pip install torch torchvision torchaudio numpy scikit-learn seaborn matplotlib onnx ipykernel
+To install the required packages, run: pip install torch torchvision torchaudio numpy scikit-learn seaborn matplotlib ipykernel onnx onnxscript
