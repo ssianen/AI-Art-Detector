@@ -1,7 +1,7 @@
 # AI Art Detector for SENG 474 Data Mining Project
 By sofiiak13, kedfree, ssianen, jas-wei
 
-Download our dataset via Google Drive: [https://drive.google.com/drive/folders/1F1LxmTDe8oy9KEKCgCGSUMAZuHX4ebRJ?usp=drive_link ](https://drive.google.com/file/d/1f9Yp0hJyGDFi5U9SNUPQnnOuRdLL_auA/view?usp=sharing)
+Download our dataset via Google Drive: [https://drive.google.com/drive/folders/1F1LxmTDe8oy9KEKCgCGSUMAZuHX4ebRJ?usp=drive_link ](https://drive.google.com/file/d/1f9Yp0hJyGDFi5U9SNUPQnnOuRdLL_auA/view?usp=sharing). Please remove the .DS_Store file if it appears anywhere in the dataset.
 
 The dataset was created from a combination of the following Kaggle datasets:
 - Ravidu Silva, “AI-ArtBench,” Kaggle.com, 2025. https://www.kaggle.com/datasets/ravidussilva/real-ai-art 
