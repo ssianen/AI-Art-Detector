@@ -1,6 +1,6 @@
 # AI Art Detector for SENG 474 Data Mining Project
 
-By sofiiak13, kedfree, ssianen, jas-wei
+## By sofiiak13, kedfree, ssianen, jas-wei
 
 Download our dataset via Google Drive: [https://drive.google.com/drive/folders/1F1LxmTDe8oy9KEKCgCGSUMAZuHX4ebRJ?usp=drive_link ](https://drive.google.com/file/d/1f9Yp0hJyGDFi5U9SNUPQnnOuRdLL_auA/view?usp=sharing)
 
