@@ -2,4 +2,4 @@ CNNEnv
 .DS_Store
 *.zip
 SENG_474_Dataset_Filtered
-
+.gitignore
